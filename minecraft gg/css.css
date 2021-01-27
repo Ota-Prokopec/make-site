@@ -1,0 +1,118 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: #000;
+}
+
+
+div.edit {
+  position: absolute;
+  left:4px;
+  display: table;
+  left:814px;
+  top:14px;
+  display:none;
+}
+div.inputrozhrani {
+
+
+
+
+         display:none
+ }
+input {
+  display: block;
+  padding: 14px;
+  margin: 14px;
+  position: relative;
+}
+div.wrap {
+  height: 545.5px;
+
+  cursor: crosshair;
+  width: 800px;
+
+  background: white;
+}
+div.wiewcode {
+
+
+  color:lightgreen;
+  display: none;
+  height: 144px;
+  font-style: monospace;
+  width: auto;
+  background: white;
+}
+div.every {
+  position: absolute;
+}
+div.button {
+  height: 44px;
+  width: auto;
+  position: relative;
+  padding: 0.4px;
+  border: 0.1px solid #000;
+  opacity: 0.4;
+  background: white;
+}
+div.button:hover {
+  background: grey;
+}
+div.container {
+  height: 94%;
+  width : 244px;
+  background: #1a1a1a;
+  position: absolute;
+  left: -274px;
+  top : 0;
+  margin: 14px;
+
+}
+
+
+.color {
+  display: flex;
+  position: relative;
+  left:14px;
+}
+div.lightblue {
+  background: lightblue;
+  width: 14px;
+  height: 14px
+}
+div.red {
+
+
+  height: 14px;
+  width: 14px;
+  background: red;
+}
+div.yellow {
+
+
+  height: 14px;
+  width: 14px;
+  background: yellow;
+}
+div.violet {
+
+
+  height: 14px;
+  width: 14px;
+  background: violet;
+}
+div.green {
+
+
+  height: 14px;
+  width: 14px;
+  background: green;
+}
+div.white {
+
+
+  height: 14px;
+  width: 14px;
+  background: white ;
+}
